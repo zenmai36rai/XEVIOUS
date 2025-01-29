@@ -10,3 +10,15 @@ C:\Users\宮澤 郷介\source\repos\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.vbproj.Cor
 C:\Users\宮澤 郷介\source\repos\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.exe
 C:\Users\宮澤 郷介\source\repos\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.xml
 C:\Users\宮澤 郷介\source\repos\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.pdb
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\bin\Debug\XEVIOUS.exe.config
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\bin\Debug\XEVIOUS.exe
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\bin\Debug\XEVIOUS.pdb
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\bin\Debug\XEVIOUS.xml
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.vbprojAssemblyReference.cache
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.Form1.resources
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.Resources.resources
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.vbproj.GenerateResource.cache
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.vbproj.CoreCompileInputs.cache
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.exe
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.xml
+C:\Users\宮澤 郷介\Source\Repos\zenmai36rai\XEVIOUS\XEVIOUS\XEVIOUS\obj\Debug\XEVIOUS.pdb

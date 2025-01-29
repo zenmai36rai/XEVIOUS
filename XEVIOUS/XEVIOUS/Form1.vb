@@ -15,7 +15,7 @@ Public Class Form1
             sy = 0
             sx = sx + canvas.Width
             If sx + canvas.Width > bmp.Width Then
-                sx = 0
+                sx = canvas.Width / 2
             End If
         End If
         Dim y = bmp.Height - PictureBox1.Height - sy
@@ -25,7 +25,7 @@ Public Class Form1
         If y < PictureBox1.Height Then
             sx2 = sx + canvas.Width
             If sx2 + canvas.Width > bmp.Width Then
-                sx2 = 0
+                sx2 = canvas.Width / 2
             End If
             Dim y2 = y + bmp.Height
             Dim src2 = New Rectangle(sx2, y2, PictureBox1.Width, PictureBox1.Height)
